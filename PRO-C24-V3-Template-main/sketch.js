@@ -108,7 +108,7 @@ function draw() {
  }
 */
 
-/*
+
  function keyPressed() {
    if (keyCode === 32) {
      var posX = playerArcher.body.position.x;
@@ -120,7 +120,7 @@ function draw() {
      playerArrows.push(arrow);
    }
  }
-*/
+
 
 
 /*
@@ -138,7 +138,7 @@ function keyPressed() {
 */
 
 
-
+/*
 function keyReleased() {
   if (keyCode === 32) {
     if (playerArrows.length) {
@@ -147,3 +147,4 @@ function keyReleased() {
     }
   }
 }
+*/
